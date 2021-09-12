@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/onlinepay/static/css/main.296ac0ad.chunk.css",
+    "main.js": "/onlinepay/static/js/main.e0a842ab.chunk.js",
+    "main.js.map": "/onlinepay/static/js/main.e0a842ab.chunk.js.map",
+    "runtime-main.js": "/onlinepay/static/js/runtime-main.25707bff.js",
+    "runtime-main.js.map": "/onlinepay/static/js/runtime-main.25707bff.js.map",
+    "static/js/2.fffc7e57.chunk.js": "/onlinepay/static/js/2.fffc7e57.chunk.js",
+    "static/js/2.fffc7e57.chunk.js.map": "/onlinepay/static/js/2.fffc7e57.chunk.js.map",
+    "index.html": "/onlinepay/index.html",
+    "static/css/main.296ac0ad.chunk.css.map": "/onlinepay/static/css/main.296ac0ad.chunk.css.map",
+    "static/js/2.fffc7e57.chunk.js.LICENSE.txt": "/onlinepay/static/js/2.fffc7e57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25707bff.js",
+    "static/js/2.fffc7e57.chunk.js",
+    "static/css/main.296ac0ad.chunk.css",
+    "static/js/main.e0a842ab.chunk.js"
+  ]
+}
